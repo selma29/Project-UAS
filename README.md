@@ -20,7 +20,7 @@ Soal
 
 ## Dokumentasi
 
-Untuk dokumentasi dapat di download melalui Dokumentasi
+Untuk dokumentasi dapat di download melalui <a href="Project UAS.pdf">Dokumentasi</a>
 
 ## Demo Program
 
