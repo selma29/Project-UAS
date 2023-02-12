@@ -23,7 +23,7 @@ Sedangkan file python main.py berisi program utama (menu pilihan yang memanggil 
 
 ## Dokumentasi
 
-Untuk dokumentasi dapat di download melalui <a href="UAS Project">Dokumentasi</a>
+Untuk dokumentasi dapat di download melalui <a href="UAS_Project.pdf">Dokumentasi</a>
 
 ## Demo Program
 
