@@ -1,4 +1,4 @@
-# UJIAN AKHIR SEMESTER
+# UJIAN AKHIR SEMESTER (UAS)
 
 Nama : Selma Ohoira
 
@@ -8,20 +8,25 @@ Kelas : TI.22.C9
 
 Mata Kuliah : Bahasa Pemograman
 
-## PACKAGE & MODULE
 Soal
 
-![Gambar](gambar/3.png)
+![Gambar](gambar/2.png)
 
-    daftar_nilai.py berisi modul untuk: tambah_data, ubah_data, hapus_data, dan cari_data
-    view_nilai.py berisi modul untuk: cetak_daftar_nilai, cetak_hasil_pencarian
-    input_nilai.py berisi modul untuk: input_data yang meminta pengguna memasukkan data.
-    main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada)
+## Penjelasan
+Pada project tersebut terdapat directory model dan view yang merupakan sebuah package yang di dalamnya terdapat sekumpulan modul python.
+Yang dimana pada struktur diatas package model berisi modul daftar_nilai.py serta file python yang bernama __init__.py.
+Sedangkan package view isinya terdapat modul input_nilai.py dan view_nilai.py serta file python juga yang bernama __init__.py.
+
+Pada file python __init__.py berfungsi untuk memberi tahu python interpreter bahwa folder tersebut adalah sebuah package.
+Jadi setiap direktori atau folder yang berisi modul constructor __init__.py akan diperilakukan sebagai package.
+Sedangkan file python main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada).
 
 ## Dokumentasi
 
-Untuk dokumentasi dapat di download melalui <a href="Project UAS.pdf">Dokumentasi</a>
+Untuk dokumentasi dapat di download melalui <a href="UAS Project">Dokumentasi</a>
 
 ## Demo Program
 
 Untuk demo program bisa dilihat dengan cara mengunjungi Demo Program
+
+Finish~
